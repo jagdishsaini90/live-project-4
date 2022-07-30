@@ -17,6 +17,6 @@
 
 ### Screenshot
 
-![https://res.cloudinary.com/dnda0xwpu/image/upload/v1659149990/images/3_rfsz9d.png](https://res.cloudinary.com/dnda0xwpu/image/upload/v1659149990/images/3_rfsz9d.png)
+!
 
 > This webpage is compatible with desktop screen only, and consistent improvements are being made.
